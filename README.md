@@ -3,4 +3,7 @@ This repository holds the code for our article on predicting XKCD comic topic fr
 
 ORIGINAL ARTICLE: https://towardsdatascience.com/xkcd-com-artificial-intelligence-a4cbf6303b1e
 
+
+![XKCD comic animation](https://miro.medium.com/max/910/1*ddooRmNgbNGg_hU1k-P6Wg.gif)
+
 # For data science and machine learning consulting, see: https://lemay.ai or contact sales@lemay.ai 
